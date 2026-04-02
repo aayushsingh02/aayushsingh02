@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Aayush Singh
 
-<!--
-**aayushsingh02/aayushsingh02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE @ JG University
+💻 DSA & AI Enthusiast
+🎯 GATE Aspirant
+🐍 Python | C++ | SQL
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🎓 Currently pursuing B.Tech in Computer Science Engineering
+* 📚 Focused on **Data Structures and Algorithms (DSA)**
+* 🤖 Interested in **Artificial Intelligence & Machine Learning**
+* 🎯 Preparing for **GATE Examination**
+* 💡 Passionate about problem-solving and continuous learning
+
+---
+
+## 🛠️ Tech Stack
+
+* **Languages:** Python, C++, SQL
+* **Core Skills:** DSA, Algorithms, Problem Solving
+* **Tools:** Git, GitHub, VS Code
+
+---
+
+## 📈 GitHub Stats
+
+![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
+
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME\&theme=radical)
+
+---
+
+## 📫 Connect with Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/aayush-singh-b060a1376
+
+---
+
+⭐ *“Consistency beats talent when talent doesn’t work hard.”*
